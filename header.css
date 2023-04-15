@@ -1,0 +1,8 @@
+.welcome{
+     grid-template-rows: 2ovh 30vh;
+     background-image: url(https://poglyad.tv/storage/resized/lg/news/98049fc6-3893-464b-84b7-d8d21a69d4b5/19_avatar.jpeg);
+      background-position: center;
+}
+ .h1{
+     color: crimson;
+ }
